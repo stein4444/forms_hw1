@@ -1,0 +1,10 @@
+E:\c# 2semestr\WindowsFormsApp2\Taska3\bin\Debug\Taska3.exe.config
+E:\c# 2semestr\WindowsFormsApp2\Taska3\bin\Debug\Taska3.exe
+E:\c# 2semestr\WindowsFormsApp2\Taska3\bin\Debug\Taska3.pdb
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.csprojAssemblyReference.cache
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.Form1.resources
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.Properties.Resources.resources
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.csproj.GenerateResource.cache
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.exe
+E:\c# 2semestr\WindowsFormsApp2\Taska3\obj\Debug\Taska3.pdb

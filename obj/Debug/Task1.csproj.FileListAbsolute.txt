@@ -1,0 +1,10 @@
+E:\c# 2semestr\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\c# 2semestr\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\c# 2semestr\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Question.resources
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\Task1.csproj.GenerateResource.cache
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\c# 2semestr\WindowsFormsApp2\obj\Debug\Task1.csprojAssemblyReference.cache

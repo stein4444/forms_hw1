@@ -1,0 +1,10 @@
+E:\c# 2semestr\WindowsFormsApp2\Task4\bin\Debug\Task4.exe.config
+E:\c# 2semestr\WindowsFormsApp2\Task4\bin\Debug\Task4.exe
+E:\c# 2semestr\WindowsFormsApp2\Task4\bin\Debug\Task4.pdb
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.Form1.resources
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.Properties.Resources.resources
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.exe
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.pdb
+E:\c# 2semestr\WindowsFormsApp2\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
